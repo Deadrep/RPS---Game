@@ -55,7 +55,26 @@ The game is built using Java and JavaFX, utilizing multithreading and socket pro
 - The game does not feature advanced or visually stunning animation.
 
 ### Acknowledgements
-<td align="center"><a href="https://github.com/shane-abh"><img src="https://avatars.githubusercontent.com/u/65544944?v=4" width="100px;" alt="Shane Abraham"/><br/><sub><b>Shane Abraham</b></sub></a></td>
+<td align="center">
+  <a href="https://github.com/shane-abh">
+    <img src="https://avatars.githubusercontent.com/u/65544944?v=4" width="100px;" alt="Shane Abraham"/>
+  </a>
+</td>
 
-- [Alan Charly](https://www.linkedin.com/in/alan-charly-59366bb5/)
-- [Hamdan Ashraf](https://www.linkedin.com/in/hamdan-ashraf/)
+[Shane Abraham](https://github.com/shane-abh)
+
+<td align="center">
+  <a href="https://www.linkedin.com/in/alan-charly-59366bb5/">
+    <img src="https://media.licdn.com/dms/image/D4D03AQFvdLZQxK631g/profile-displayphoto-shrink_800_800/0/1667678620232?e=1683158400&v=beta&t=6XfI3pnuX2BcOCDK79yo6J_nzvKtEoeuYnrejk7sniQ" width="100px;" alt="Alan Charly"/>
+  </a>
+</td>
+
+[Alan Charly](https://www.linkedin.com/in/alan-charly-59366bb5/)
+
+<td align="center">
+  <a href="https://www.linkedin.com/in/hamdan-ashraf/">
+    <img src="https://media.licdn.com/dms/image/D4D03AQFNLnyOyME8ng/profile-displayphoto-shrink_800_800/0/1677159364509?e=1683158400&v=beta&t=zcHa-rzoSd-xh_OLaExhrirrDJcqY6fBhhniUz4FT1w" width="100px;" alt="Hamdan Ashraf"/>
+  </a>
+</td>
+
+[Hamdan Ashraf](https://www.linkedin.com/in/hamdan-ashraf/)
