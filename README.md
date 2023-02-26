@@ -8,7 +8,7 @@ A multithreaded and multiplayer game that allows players to play against each ot
 4. [Design and Implementation](#design-and-implementation)
 5. [Future Improvements](#future-improvements)
 6. [Limitations](#limitations)
-7. [Acknowledgements](#acknowledgements)
+7. [Acknowledgements](#acknowledgements) 
 
 ### Introduction
 This game is a simple implementation of the classic game of Rock, Paper, Scissors, built using Java and JavaFX. The game features multithreading and multiplayer capabilities, allowing players to play against each other in real-time. It is a group project that uses a graphical user interface (GUI) design and it is a networked game that uses network programming such as sockets, RMI, Web Sockets, etc.
