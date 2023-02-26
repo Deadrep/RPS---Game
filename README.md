@@ -52,3 +52,6 @@ The game is built using Java and JavaFX, utilizing multithreading and socket pro
 - The game is only compatible with Windows operating systems as it is an executable file.
 - The game is only accessible within a local network and does not support online play.
 - The game does not feature advanced or visually stunning animation.
+
+### Acknowledgements
+- [shane-abh](https://github.com/shane-abh)
