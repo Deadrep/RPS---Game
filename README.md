@@ -55,4 +55,7 @@ The game is built using Java and JavaFX, utilizing multithreading and socket pro
 - The game does not feature advanced or visually stunning animation.
 
 ### Acknowledgements
-- [shane-abh](https://github.com/shane-abh)
+<td align="center"><a href="https://github.com/shane-abh"><img src="https://avatars.githubusercontent.com/u/65544944?v=4" width="100px;" alt="Shane Abraham"/><br/><sub><b>Shane Abraham</b></sub></a></td>
+
+- [Alan Charly](https://www.linkedin.com/in/alan-charly-59366bb5/)
+- [Hamdan Ashraf](https://www.linkedin.com/in/hamdan-ashraf/)
